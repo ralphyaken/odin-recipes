@@ -1,0 +1,81 @@
+ul  {
+    font-weight: bold;
+    font size: 15px;
+}
+
+li  {
+    font-weight: bold;
+    font size: 15px;
+}
+ul.li  { 
+    list-style: circle;
+}
+
+a {
+    background-color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;
+
+}
+
+h1 {
+    font-weight: bold;
+    object-position: center;   
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    object-position: 50px 50px;
+}
+
+.header-ingredients {
+    background-color: white;
+    float: center;
+    width: 33%;
+    margin-right: 20px;
+}
+
+.header-steps {
+    background-color: white
+    float: right;
+    width: 33%;
+}
+.box-ingredients {
+    float: center;
+    width: 33%;
+    background-color:aquamarine;
+}
+
+.box-steps {
+    background-color:aquamarine;
+    float: right;
+    width: 33%;
+}
+
+.header-steps {
+    background-color: white
+    float: right;
+    width: 33%;
+}
+
+.description-text {
+    background-color:aquamarine;
+    float: center;
+    width: 33%;
+}
+
+.description-header {
+    background-color: white;
+    float: left;
+    width:33%;
+}
+
+.return {
+    align: bottom;
+}

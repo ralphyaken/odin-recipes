@@ -1,42 +1,37 @@
-ul  {
-    background-color: #D2691E;
-    font-weight: bold;
-    font size: 30px;
-    text-align: center;
-}
-li  {
-    background-color: #D2691E;
-    font-weight: bold;
+ul.li  { 
     list-style: circle;
-    font size: 30px;
-    text-align: center;
 }
 
 a {
-    background-color: red;
     font-weight: bold;
     font-size: 30px;
-}
-
-.title {
-    background-color: #D2691E;
-    font-size: 30px;
-
 }
 
 * {
-    background-color: #7FFFD4;
-    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    font-family: sans-serif;
+    box-sizing: border-box;
 }
 
 h1 {
-    font-weight: bold;
-    text-align: center;
-    
+    font-weight: bold;  
 }
 
 img {
-    height: 500px;
-    width: 500px;
-    padding-left: 680px;
+    height: 300px;
+    width: 300px;
+    
 }
+
+.box {
+    float: left;
+    width: 33%;
+    padding: 10px;
+}
+
+.titlebox {
+    margin-left: 40%;
+}
+
+
+
+
