@@ -4,21 +4,23 @@ ul.li  {
 
 a {
     font-weight: bold;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 * {
-    font-family: sans-serif;
+    font-family: "Lucida Handwriting";
     box-sizing: border-box;
+    background-color: black;
+    color: white;
 }
 
 h1 {
     font-weight: bold;  
 }
 
-img {
-    height: 300px;
-    width: 300px;
+.img {
+    height: 250px;
+    width: 250px;
     
 }
 
