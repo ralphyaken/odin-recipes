@@ -2,12 +2,14 @@ ul  {
     background-color: #D2691E;
     font-weight: bold;
     font size: 30px;
+    text-align: center;
 }
 li  {
     background-color: #D2691E;
     font-weight: bold;
     list-style: circle;
     font size: 30px;
+    text-align: center;
 }
 
 a {
@@ -24,4 +26,16 @@ a {
 
 * {
     background-color: #7FFFD4;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+img {
+    height: 500px;
+    width: 500px;
+    padding-left: 680px;
 }
