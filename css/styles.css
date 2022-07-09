@@ -1,0 +1,27 @@
+ul  {
+    background-color: #D2691E;
+    font-weight: bold;
+    font size: 30px;
+}
+li  {
+    background-color: #D2691E;
+    font-weight: bold;
+    list-style: circle;
+    font size: 30px;
+}
+
+a {
+    background-color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.title {
+    background-color: #D2691E;
+    font-size: 30px;
+
+}
+
+* {
+    background-color: #7FFFD4;
+}
